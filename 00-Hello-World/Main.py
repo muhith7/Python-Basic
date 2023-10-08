@@ -11,7 +11,7 @@ print("Hello Arlot!!!")
 """Ini adalah comment panjang
 ada dua tipe comment"""
 
-a = 100
+a = 10
 print(a)
 
 print(time.time() - start_time, "detik")
